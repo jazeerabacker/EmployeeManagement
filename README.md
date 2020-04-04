@@ -22,5 +22,11 @@ salary double(15,2),
 date_of_joining date,
 primary key(employee_id));
 
+insert into employeedetails values(234352,'Arun','Kumar','Male','9456382716','arun@outlook.com',27,182345,'Insurance','Programming Analyst',35000,'2015-02-18');
+insert into employeedetails values(234353,'Jyothi','Kumari','Female','8675462376','jyothi123@gmail.com',25,182346,'Transport','Junior Developer',28000,'2016-10-02');
+insert into employeedetails values(234354,'Rakesh','Tiwari','Male','6538291090','rakesh@gmail.com',26,182347,'Communication','Java Developer',30000,'2016-07-28');
+insert into employeedetails values(234355,'John','Pulikkattil','Male','8085237896','pkjohn@hotmail.com',30,182345,'Insurance','Full Stack Developer',40000,'2012-04-10');
+
+
 for login default username1: sooraj and password: sooraj123 
 username2:devraj and password:dev321
